@@ -4,7 +4,7 @@ my own passport mrz scanner, browser based solution
 
 logical thinking process
 
-human understandable content <- mrz text <- picture <- camera
+human understandable content in json<- mrz text <- picture <- camera
 
 
 
